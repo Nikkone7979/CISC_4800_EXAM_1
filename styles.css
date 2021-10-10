@@ -1,0 +1,16 @@
+.top {
+    padding-left:300px;
+    font-style: italic;
+    
+}
+
+.underlined{
+    padding-left:300px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.link{
+    padding-left:300px;
+    color:blue;
+}
